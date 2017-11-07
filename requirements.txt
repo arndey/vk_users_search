@@ -1,0 +1,8 @@
+django==1.11.3
+vk_api==9.1.1
+numpy==1.13.3
+
+# also need install dlib, scipy and scikit-image with conda, like:
+# $ conda install -c conda-forge dlib
+# $ conda install -c conda-forge scipy
+# $ conda install -c conda-forge scikit-image
