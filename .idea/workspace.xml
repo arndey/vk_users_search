@@ -1,65 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e1f00d9-c244-4798-82db-dec83d64b4de" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/3c36ba39-9726-4c52-9392-9ae6fe9814d9/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/3c36ba39-9726-4c52-9392-9ae6fe9814d9/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/3c36ba39-9726-4c52-9392-9ae6fe9814d9/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/3c36ba39-9726-4c52-9392-9ae6fe9814d9/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/3c36ba39-9726-4c52-9392-9ae6fe9814d9/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/3c36ba39-9726-4c52-9392-9ae6fe9814d9/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/3c36ba39-9726-4c52-9392-9ae6fe9814d9/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/data_for_neural/dlib_face_recognition_resnet_model_v1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/data_for_neural/shape_predictor_68_face_landmarks.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/landmark_sets/models_set/0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/landmark_sets/models_set/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/landmark_sets/models_set/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/landmark_sets/models_set/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/landmark_sets/models_set/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/landmark_sets/models_set/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/landmark_sets/models_set/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/landmark_sets/models_set/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/landmark_sets/models_set/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/landmark_sets/models_set/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/landmark_sets/models_set/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/landmark_sets/models_set/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/landmark_sets/models_set/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/landmark_sets/models_set/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/landmark_sets/models_set/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/landmark_sets/models_set/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/landmark_sets/models_set/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/landmark_sets/models_set/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/beauty_neural_correct.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/3c36ba39-9726-4c52-9392-9ae6fe9814d9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/3c36ba39-9726-4c52-9392-9ae6fe9814d9/storage.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beauty_neural_correct/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beauty_neural_correct/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beauty_neural_correct/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beauty_neural_correct/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/bot_vk.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/help_messages/common_part.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/help_messages/search_message.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/help_messages/test_message.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/messages_and_phrases.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/settings_dir/difference.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/settings_dir/loginpassword.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/settings_dir/selected_mode.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/settings_dir/selected_set.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/utils/CommonUtils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/utils/SearchUtils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/utils/TestUtils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bot/utils/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
-    </list>
+    <list default="true" id="4e1f00d9-c244-4798-82db-dec83d64b4de" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +76,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -144,10 +86,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-825">
+            <state relative-caret-position="0">
               <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="46" />
               <folding />
             </state>
@@ -848,18 +790,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-825">
-          <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="46" />
           <folding />
         </state>
       </provider>
