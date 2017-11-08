@@ -79,10 +79,10 @@ WSGI_APPLICATION = 'my_sharded_project.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',    # todo убрать пароль
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'neural',
         'USER': 'postgres',
-        'PASSWORD': '0309Kost',
+        'PASSWORD': 'password',
         'HOST': '127.0.0.1',
         'PORT': '5432'
     }
