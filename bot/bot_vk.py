@@ -6,7 +6,7 @@ import time
 import urllib3
 import vk_api
 
-from beauty_neural_correct.settings import TOKEN, logger
+from vk_users_search.settings import TOKEN, logger
 from bot.utils.SearchUtils import SearchUtils
 from bot.utils.TestUtils import TestUtils
 

@@ -12,7 +12,7 @@ import vk_api
 from skimage import io
 from scipy.spatial import distance
 
-from beauty_neural_correct.settings import SETS_PATH_PREFIX
+from vk_users_search.settings import SETS_PATH_PREFIX
 
 
 class CommonUtils:

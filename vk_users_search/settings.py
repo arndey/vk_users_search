@@ -57,7 +57,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'beauty_neural_correct.urls'
+ROOT_URLCONF = 'vk_users_search.urls'
 
 TEMPLATES = [
     {
@@ -75,7 +75,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'my_sharded_project.wsgi.application'
+WSGI_APPLICATION = 'vk_users_search.wsgi.application'
 
 DATABASES = {
     'default': {

@@ -10,11 +10,11 @@ import sys
 import vk_api
 from skimage import io
 
-from beauty_neural_correct.settings import SETS_PATH_PREFIX, logger
+from vk_users_search.settings import SETS_PATH_PREFIX, logger
 from bot.messages_and_phrases import WHORE_PHRASES, SEARCHING_COMMANDS_MESSAGE
 from bot.utils.CommonUtils import CommonUtils
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'beauty_neural_correct.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'vk_users_search.settings')
 django.setup()
 from bot.models import UserData
 
