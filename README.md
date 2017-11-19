@@ -10,7 +10,7 @@ INSTALLATION
 
 START
 -----
-В [settings](beauty_neural_correct/settings.py) заполните TOKEN сообщества,
+В [settings](vk_users_search/settings.py) заполните TOKEN сообщества,
 а также заполните [файл с логином и паролем](bot/settings_dir/loginpassword.txt) от страницы пользователя. 
 Это необходимо, так как не все методы vk API доступны с ключом доступа сообщества. <br><br>
 Для запуска из корня проекта введите команду `python bot\bot_vk.py`

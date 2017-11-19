@@ -1,8 +1,7 @@
 import sys
-
 import os
 
-WHORE_PHRASES = ['жду звонка', 'интим', 'с подружкой']
+WHORE_PHRASES = ('жду звонка', 'интим', 'с подружкой')
 
 with open(os.path.join(os.path.dirname(sys.argv[0]),
                        'help_messages/common_part.txt'),
